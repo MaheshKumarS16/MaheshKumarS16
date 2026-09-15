@@ -8,7 +8,7 @@
   <a href="https://github.com/MaheshKumarS16">
     <img src="https://img.shields.io/badge/GitHub-MaheshKumarS16-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mahesh-kumar-s-47135637/">
+  <a href="[https://www.linkedin.com/in/mahesh-kumar-s-47135637/](https://www.linkedin.com/in/maheshkumars1610/)">
     <img src="https://img.shields.io/badge/LinkedIn-Mahesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
